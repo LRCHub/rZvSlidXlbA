@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "Fighter",
+  "base_artist": "KANA-BOON",
+  "createdAt": "2025-12-28T10:44:08.631874Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "The Fighter",
+      "artist": "Keith Urban feat. Carrie Underwood",
+      "has_synced": true,
+      "path": "select/01_The_Fighter_Keith_Urban_feat._Carrie_Underwood.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "The Fighter",
+      "artist": "Keith Urban",
+      "has_synced": true,
+      "path": "select/02_The_Fighter_Keith_Urban.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Fighter",
+      "artist": "Thomas D",
+      "has_synced": true,
+      "path": "select/03_Fighter_Thomas_D.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Fighter",
+      "artist": "BUMP OF CHICKEN",
+      "has_synced": true,
+      "path": "select/04_Fighter_BUMP_OF_CHICKEN.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Lover. Fighter.",
+      "artist": "Svrcina",
+      "has_synced": true,
+      "path": "select/05_Lover._Fighter._Svrcina.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Fighter (AMP Remix)",
+      "artist": "Sneaker Pimps",
+      "has_synced": false,
+      "path": "select/06_Fighter_(AMP_Remix)_Sneaker_Pimps.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Little Fighter",
+      "artist": "White Lion",
+      "has_synced": true,
+      "path": "select/07_Little_Fighter_White_Lion.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "The Fighter",
+      "artist": "Bon Jovi",
+      "has_synced": true,
+      "path": "select/08_The_Fighter_Bon_Jovi.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "The Fighter",
+      "artist": "Golden Earring",
+      "has_synced": false,
+      "path": "select/09_The_Fighter_Golden_Earring.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "I'm a Lover Not a Fighter",
+      "artist": "The Kinks",
+      "has_synced": true,
+      "path": "select/10_I'm_a_Lover_Not_a_Fighter_The_Kinks.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Prize Fighter",
+      "artist": "The Killers",
+      "has_synced": true,
+      "path": "select/11_Prize_Fighter_The_Killers.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "fighter",
+      "artist": "Christina Perri",
+      "has_synced": true,
+      "path": "select/12_fighter_Christina_Perri.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Fighter",
+      "artist": "Steve Martin feat. Edie Brickell",
+      "has_synced": true,
+      "path": "select/13_Fighter_Steve_Martin_feat._Edie_Brickell.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Fighter (Hellraiser Remix)",
+      "artist": "Christina Aguilera",
+      "has_synced": true,
+      "path": "select/14_Fighter_(Hellraiser_Remix)_Christina_Aguilera.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Christina Aguilera – Fighter (Hellraiser Remix)",
+      "artist": "Christina Aguilera",
+      "has_synced": true,
+      "path": "select/15_Christina_Aguilera_–_Fighter_(Hellraiser_Remix)_Christina_Aguilera.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Fighter",
+      "artist": "Christina Aguilera",
+      "has_synced": false,
+      "path": "select/16_Fighter_Christina_Aguilera.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Fighter",
+      "artist": "KANA-BOON",
+      "has_synced": false,
+      "path": "select/pl_01_Fighter_KANA-BOON.txt"
+    }
+  ]
+}
